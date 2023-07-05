@@ -1,0 +1,396 @@
+sequence,protein,has_sth
+WP_220338199.1,nitrate reductase subunit alpha [Staphylococcus aureus] ,0
+WP_220338212.1,excinuclease ABC subunit UvrA [Staphylococcus aureus] ,0
+WP_220338188.1,ATP-dependent DNA helicase DinG [Staphylococcus aureus] ,0
+WP_220338203.1,cyclic-di-AMP phosphodiesterase GdpP [Staphylococcus aureus] ,1
+WP_220338209.1,"alpha,alpha-phosphotrehalase [Staphylococcus aureus] ",1
+WP_220338201.1,NAD(P)/FAD-dependent oxidoreductase [Staphylococcus aureus] ,1
+WP_220338208.1,glutamate synthase subunit beta [Staphylococcus aureus] ,1
+WP_050961227.1,phosphoglucosamine mutase [Staphylococcus aureus] ,1
+WP_220338217.1,Na+/H+ antiporter family protein [Staphylococcus aureus] ,1
+WP_045178805.1,pitrilysin family protein [Staphylococcus aureus] ,0
+WP_031897007.1,cysteine synthase A [Staphylococcus aureus] ,1
+WP_220338195.1,DeoR/GlpR family DNA-binding transcription regulator [Staphylococcus aureus] ,1
+WP_220338205.1,ABC transporter ATP-binding protein [Staphylococcus aureus] ,1
+WP_165468709.1,F0F1 ATP synthase subunit B [Staphylococcus aureus] ,1
+WP_220338219.1,metallophosphoesterase [Staphylococcus aureus] ,1
+WP_220338197.1,50S ribosomal protein L15 [Staphylococcus aureus] ,1
+WP_220338192.1,fluoride efflux transporter CrcB [Staphylococcus aureus] ,1
+WP_103237428.1,YtxH domain-containing protein [Staphylococcus aureus] ,1
+WP_016028256.1,DUF1381 domain-containing protein [Staphylococcus aureus] ,1
+WP_000131389.1, SAV1978 family virulence-associated passenger protein [Staphylococcus] ,1
+WP_220338220.1,hypothetical protein [Staphylococcus aureus] ,1
+WP_000066013.1, DUF1270 domain-containing protein [Staphylococcus] ,1
+WP_000514408.1, nitrate reductase subunit alpha [Staphylococcus] ,0
+WP_000662676.1,excinuclease ABC subunit UvrA [Staphylococcus aureus] ,0
+WP_000473678.1,glucose-specific PTS transporter subunit IIBC [Staphylococcus aureus] ,1
+WP_220369840.1,heme uptake protein IsdB [Staphylococcus aureus] ,0
+WP_220369829.1,BglG family transcription antiterminator [Staphylococcus aureus] ,1
+WP_000435143.1,threonine--tRNA ligase [Staphylococcus aureus] ,0
+WP_042109021.1,nitric oxide reductase activation protein NorD [Staphylococcus aureus] ,0
+WP_042109909.1,peptide resistance ABC transporter permease subunit VraE [Staphylococcus aureus] ,0
+WP_000950546.1,Na+/H+ antiporter Mnh2 subunit D [Staphylococcus aureus] ,0
+WP_070006983.1,acceptor oxidoreductase subunit alpha [Staphylococcus aureus] ,0
+WP_138936748.1,proline--tRNA ligase [Staphylococcus aureus] ,1
+WP_220369834.1,ABC transporter ATP-binding protein/permease [Staphylococcus aureus] ,0
+WP_042109270.1,phosphoglycerate dehydrogenase [Staphylococcus aureus] ,0
+WP_000028663.1,type I restriction-modification system subunit M [Staphylococcus aureus] ,1
+WP_001085507.1,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Staphylococcus aureus] ",1
+WP_042109853.1,betaine-aldehyde dehydrogenase [Staphylococcus aureus] ,1
+WP_220369813.1,glucose-6-phosphate dehydrogenase [Staphylococcus aureus] ,1
+WP_042109272.1,N-acetylglucosamine-specific PTS transporter subunit IIBC [Staphylococcus aureus] ,0
+WP_042109137.1,rhomboid family intramembrane serine protease [Staphylococcus aureus] ,0
+WP_000027919.1,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA [Staphylococcus aureus] ,1
+WP_138936724.1,glutamate--tRNA ligase [Staphylococcus aureus] ,1
+WP_063663391.1,6-phospho-beta-glucosidase [Staphylococcus aureus] ,1
+WP_220369817.1,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB [Staphylococcus aureus] ,1
+WP_000379044.1,ATP-dependent protease ATPase subunit HslU [Staphylococcus aureus] ,0
+WP_042109065.1,ATP-dependent DNA helicase RecQ [Staphylococcus aureus] ,0
+WP_220369830.1,multidrug efflux MATE transporter MepA [Staphylococcus aureus] ,0
+WP_000108668.1,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB [Staphylococcus aureus] ,1
+WP_042108860.1,RIP metalloprotease RseP [Staphylococcus aureus] ,0
+WP_000793018.1,cation symporter-2 family protein [Staphylococcus aureus] ,1
+WP_000216856.1,threonine ammonia-lyase IlvA [Staphylococcus aureus] ,1
+WP_000120296.1,SdrH family protein [Staphylococcus aureus] ,0
+WP_138936790.1,accessory Sec system protein translocase subunit SecY2 [Staphylococcus aureus] ,1
+WP_000142199.1,acyl-CoA dehydrogenase family protein [Staphylococcus aureus] ,1
+WP_000769415.1,D-alanyl-lipoteichoic acid biosynthesis protein DltD [Staphylococcus aureus] ,1
+WP_001184011.1,acetoin utilization protein AcuC [Staphylococcus aureus] ,0
+WP_220369833.1,YibE/F family protein [Staphylococcus aureus] ,1
+WP_220369837.1,Glu-specific serine endopeptidase SspA [Staphylococcus aureus] ,0
+WP_042109557.1,D-alanine--D-alanine ligase [Staphylococcus aureus] ,1
+WP_042108581.1,ABC transporter permease [Staphylococcus aureus] ,1
+WP_220369815.1,PTS transporter subunit IIC [Staphylococcus aureus] ,0
+WP_001279375.1,type 2 isopentenyl-diphosphate Delta-isomerase [Staphylococcus aureus] ,1
+WP_000571207.1,methionine ABC transporter ATP-binding protein [Staphylococcus aureus] ,1
+WP_000159041.1,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD [Staphylococcus aureus] ,1
+WP_000638459.1,cytochrome d ubiquinol oxidase subunit II [Staphylococcus aureus] ,1
+WP_001200747.1,alcohol dehydrogenase AdhP [Staphylococcus aureus] ,1
+WP_000702778.1,lipoteichoic acid-specific glycosylation protein CsbB [Staphylococcus aureus] ,0
+WP_000913243.1,DUF1672 domain-containing protein [Staphylococcus aureus] ,0
+WP_220369818.1,class I mannose-6-phosphate isomerase [Staphylococcus aureus] ,1
+WP_000684060.1,2-dehydropantoate 2-reductase [Staphylococcus aureus] ,1
+WP_042107911.1,ribokinase [Staphylococcus aureus] ,1
+WP_138936747.1,ribosome biogenesis GTPase YlqF [Staphylococcus aureus] ,1
+WP_070874076.1,aspartate carbamoyltransferase catalytic subunit [Staphylococcus aureus] ,1
+WP_042109203.1,rod shape-determining protein MreC [Staphylococcus aureus] ,1
+WP_000166063.1,fatty acid kinase binding subunit FakB2 [Staphylococcus aureus] ,1
+WP_138936775.1,type II pantothenate kinase [Staphylococcus aureus] ,1
+WP_000362976.1,alpha/beta hydrolase [Staphylococcus aureus] ,1
+WP_138936733.1,ABC transporter permease [Staphylococcus aureus] ,1
+WP_042108271.1,alpha/beta hydrolase [Staphylococcus aureus] ,1
+WP_138936726.1,DeoR/GlpR family DNA-binding transcription regulator [Staphylococcus aureus] ,1
+WP_001096495.1,transaldolase [Staphylococcus aureus] ,1
+WP_220369828.1,antiholin-like protein LrgB [Staphylococcus aureus] ,1
+WP_138936746.1,orotidine-5'-phosphate decarboxylase [Staphylococcus aureus] ,1
+WP_000160219.1,50S ribosomal protein L3 [Staphylococcus aureus] ,1
+WP_063663459.1,DivIVA domain-containing protein [Staphylococcus aureus] ,1
+WP_031790000.1,TIGR01741 family protein [Staphylococcus aureus] ,1
+WP_220369836.1,Na+/H+ antiporter Mnh1 subunit E [Staphylococcus aureus] ,1
+WP_042109418.1,low molecular weight protein-tyrosine-phosphatase [Staphylococcus aureus] ,1
+WP_000278313.1,MepB family protein [Staphylococcus aureus] ,1
+WP_138936795.1,Hsp20 family protein [Staphylococcus aureus] ,1
+WP_053504528.1,PaaI family thioesterase [Staphylococcus aureus] ,1
+core/3364/101/WP_063663434.1,lactococcin 972 family bacteriocin [Staphylococcus aureus] ,1
+core/3500/101/WP_000195810.1, DUF1381 domain-containing protein [Staphylococcus] ,1
+core/3587/101/WP_000004085.1,30S ribosomal protein S17 [Staphylococcus aureus] ,1
+core/3644/101/WP_220369820.1,hypothetical protein [Staphylococcus aureus] ,1
+core/3651/101/WP_001126832.1,phi PVL orf 51-like protein [Staphylococcus aureus] ,1
+core/3875/101/WP_138936758.1,50S ribosomal protein L35 [Staphylococcus aureus] ,1
+core/3904/101/WP_031888515.1,zinc-finger domain-containing protein [Staphylococcus aureus] ,1
+core/4018/101/WP_031782757.1,DUF1270 domain-containing protein [Staphylococcus aureus] ,1
+core/121/102/WP_221739223.1,protein translocase subunit SecDF [Staphylococcus aureus] ,0
+core/192/102/WP_221739225.1,cyclic-di-AMP phosphodiesterase GdpP [Staphylococcus aureus] ,1
+core/228/102/WP_031783792.1,assimilatory sulfite reductase (NADPH) flavoprotein subunit [Staphylococcus aureus] ,1
+core/292/102/WP_196578165.1,"L-2,3-diaminopropanoate--citrate ligase SbnE [Staphylococcus aureus] ",1
+core/476/102/WP_001288206.1, lysine--tRNA ligase [Staphylococcus] ,1
+core/550/102/WP_031866600.1,F0F1 ATP synthase subunit beta [Staphylococcus aureus] ,1
+core/899/102/WP_221739227.1,diglucosyl diacylglycerol synthase [Staphylococcus aureus] ,1
+core/1138/102/WP_221739221.1,bifunctional threonine ammonia-lyase/L-serine ammonia-lyase TdcB [Staphylococcus aureus] ,0
+core/1331/102/WP_031910626.1,DUF1672 domain-containing protein [Staphylococcus aureus] ,0
+core/2351/102/WP_221739228.1,CPBP family glutamic-type intramembrane protease [Staphylococcus aureus] ,1
+core/2837/102/WP_078092644.1,ATP synthase subunit I [Staphylococcus aureus] ,1
+core/3420/102/WP_216812036.1,30S ribosomal protein S10 [Staphylococcus aureus] ,1
+core/3962/102/WP_050961351.1,preprotein translocase subunit SecE [Staphylococcus aureus] ,1
+core/184/103/WP_223065186.1,DNA topoisomerase IV subunit B [Staphylococcus aureus] ,0
+core/193/103/WP_223065170.1,heme uptake protein IsdB [Staphylococcus aureus] ,0
+core/239/103/WP_223065169.1,translational GTPase TypA [Staphylococcus aureus] ,1
+core/275/103/WP_223065109.1,aspartate--tRNA ligase [Staphylococcus aureus] ,0
+core/292/103/WP_223065147.1,"L-2,3-diaminopropanoate--citrate ligase SbnE [Staphylococcus aureus] ",1
+core/368/103/WP_223065128.1,chaperonin GroEL [Staphylococcus aureus] ,0
+core/418/103/WP_223065148.1,DNA-binding protein [Staphylococcus aureus] ,1
+core/368/103/WP_223065128.1,chaperonin GroEL [Staphylococcus aureus] ,0
+core/418/103/WP_223065148.1,DNA-binding protein [Staphylococcus aureus] ,1
+core/469/103/WP_223065130.1,cardiolipin synthase [Staphylococcus aureus] ,0
+core/471/103/WP_001662473.1,betaine-aldehyde dehydrogenase [Staphylococcus aureus] ,1
+core/520/103/WP_031880746.1,amino acid permease [Staphylococcus aureus] ,1
+core/632/103/WP_001252515.1, bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU [Staphylococcus] ,1
+core/647/103/WP_223065176.1,type I glutamate--ammonia ligase [Staphylococcus aureus] ,1
+core/705/103/WP_223065134.1,preprotein translocase subunit SecY [Staphylococcus aureus] ,1
+core/745/103/WP_054192890.1,pitrilysin family protein [Staphylococcus aureus] ,0
+core/759/103/WP_223065181.1,glycine glycyltransferase FemB [Staphylococcus aureus] ,0
+core/469/103/WP_223065130.1,cardiolipin synthase [Staphylococcus aureus] ,0
+core/471/103/WP_001662473.1,betaine-aldehyde dehydrogenase [Staphylococcus aureus] ,1
+core/520/103/WP_031880746.1,amino acid permease [Staphylococcus aureus] ,1
+core/632/103/WP_001252515.1, bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU [Staphylococcus] ,1
+core/647/103/WP_223065176.1,type I glutamate--ammonia ligase [Staphylococcus aureus] ,1
+core/705/103/WP_223065134.1,preprotein translocase subunit SecY [Staphylococcus aureus] ,1
+core/745/103/WP_054192890.1,pitrilysin family protein [Staphylococcus aureus] ,0
+core/759/103/WP_223065181.1,glycine glycyltransferase FemB [Staphylococcus aureus] ,0
+core/835/103/WP_223065151.1,acyl-CoA dehydrogenase family protein [Staphylococcus aureus] ,1
+core/864/103/WP_223065115.1,methionine adenosyltransferase [Staphylococcus aureus] ,1
+core/904/103/WP_223065105.1,30S ribosomal protein S1 [Staphylococcus aureus] ,1
+core/945/103/WP_223065126.1,radical SAM/CxCxxxxC motif protein YfkAB [Staphylococcus aureus] ,0
+core/954/103/WP_077156052.1,class I SAM-dependent RNA methyltransferase [Staphylococcus aureus] ,0
+core/1073/103/WP_223065110.1,AbrB family transcriptional regulator [Staphylococcus aureus] ,0
+core/1074/103/WP_223065160.1,PIN/TRAM domain-containing protein [Staphylococcus aureus] ,1
+core/1159/103/WP_106898725.1,phosphoribosylformylglycinamidine cyclo-ligase [Staphylococcus aureus] ,1
+core/1204/103/WP_223065133.1,zinc-binding alcohol dehydrogenase family protein [Staphylococcus aureus] ,0
+core/1275/103/WP_070868483.1, alpha-ketoacid dehydrogenase subunit beta [Staphylococcus] ,1
+core/1301/103/WP_106898737.1,asparaginase [Staphylococcus aureus] ,0
+core/1316/103/WP_223065141.1,L-lactate dehydrogenase [Staphylococcus aureus] ,1
+core/1334/103/WP_106898701.1,phosphate/phosphite/phosphonate ABC transporter substrate-binding protein [Staphylococcus aureus] ,1
+core/1450/103/WP_223065184.1,cysteine synthase family protein [Staphylococcus aureus] ,0
+core/1501/103/WP_223065108.1,deoxyribonuclease IV [Staphylococcus aureus] ,1
+core/1530/103/WP_106898710.1,protein deglycase HchA [Staphylococcus aureus] ,1
+core/1685/103/WP_223065107.1,pyrroline-5-carboxylate reductase [Staphylococcus aureus] ,1
+core/1907/103/WP_223065152.1,response regulator transcription factor LytR [Staphylococcus aureus] ,1
+core/2014/103/WP_223065174.1,SDR family NAD(P)-dependent oxidoreductase [Staphylococcus aureus] ,1
+core/2163/103/WP_031874368.1,endonuclease III [Staphylococcus aureus] ,1
+core/2270/103/WP_106898745.1,dephospho-CoA kinase [Staphylococcus aureus] ,1
+core/2344/103/WP_223065135.1,ATP-binding cassette domain-containing protein [Staphylococcus aureus] ,1
+core/2373/103/WP_084988412.1,peptidylprolyl isomerase [Staphylococcus aureus] ,1
+core/2474/103/WP_223065144.1,isochorismatase family cysteine hydrolase [Staphylococcus aureus] ,1
+core/2559/103/WP_223065132.1,alkaline shock response membrane anchor protein AmaP [Staphylococcus aureus] ,1
+core/2902/103/WP_031924246.1,50S ribosomal protein L13 [Staphylococcus aureus] ,1
+core/2939/103/WP_223065185.1,formyl peptide receptor-like 1 inhibitory protein [Staphylococcus aureus] ,1
+core/3104/103/WP_061736037.1,rhodanese-like domain-containing protein [Staphylococcus aureus] ,1
+core/3500/103/WP_086045436.1,DUF1381 domain-containing protein [Staphylococcus aureus] ,1
+core/3651/103/WP_016528724.1, SAV1978 family virulence-associated passenger protein [Staphylococcus] ,1
+core/3706/103/WP_223065165.1,CsbA family protein [Staphylococcus aureus] ,1
+core/3717/103/WP_223065180.1,DNA damage-induced cell division inhibitor SosA [Staphylococcus aureus] ,1
+core/4018/103/WP_042856228.1, DUF1270 family protein [Staphylococcus] ,1
+core/19/104/WP_223065262.1,PolC-type DNA polymerase III [Staphylococcus aureus] ,0
+core/27/104/WP_001074559.1,bifunctional autolysin [Staphylococcus aureus] ,0
+core/28/104/WP_000514400.1,nitrate reductase subunit alpha [Staphylococcus aureus] ,1
+core/35/104/WP_000172378.1,helicase-exonuclease AddAB subunit AddB [Staphylococcus aureus] ,0
+core/37/104/WP_070997678.1,pyruvate carboxylase [Staphylococcus aureus] ,0
+core/54/104/WP_000786113.1,YhgE/Pip domain-containing protein [Staphylococcus aureus] ,1
+core/60/104/WP_000584638.1,AAA family ATPase [Staphylococcus aureus] ,0
+core/72/104/WP_029163513.1,YbcC family protein [Staphylococcus aureus] ,0
+core/80/104/WP_000734079.1,alanine--tRNA ligase [Staphylococcus aureus] ,0
+core/81/104/WP_001038289.1,DNA polymerase I [Staphylococcus aureus] ,0
+core/91/104/WP_001071140.1,bifunctional lysylphosphatidylglycerol flippase/synthetase MprF [Staphylococcus aureus] ,0
+core/96/104/WP_070997561.1,ATP-dependent RecD-like DNA helicase [Staphylococcus aureus] ,0
+core/101/104/WP_141766961.1,leucine--tRNA ligase [Staphylococcus aureus] ,0
+core/106/104/WP_000054608.1,Na+/H+ antiporter Mnh1 subunit A [Staphylococcus aureus] ,0
+core/112/104/WP_020978085.1,ribonuclease R [Staphylococcus aureus] ,1
+core/122/104/WP_000595005.1,single-stranded-DNA-specific exonuclease RecJ [Staphylococcus aureus] ,0
+core/146/104/WP_000838487.1,DNA topoisomerase III [Staphylococcus aureus] ,0
+core/150/104/WP_070997609.1,ATP-dependent Clp protease ATP-binding subunit ClpL [Staphylococcus aureus] ,0
+core/177/104/WP_000516267.1,DNA mismatch repair endonuclease MutL [Staphylococcus aureus] ,0
+core/178/104/WP_000236408.1, gamma-glutamyltransferase [Staphylococcus] ,1
+core/180/104/WP_000776739.1,ABC transporter permease [Staphylococcus aureus] ,1
+core/183/104/WP_000579571.1,serine/threonine protein kinase Stk1 [Staphylococcus aureus] ,0
+core/184/104/WP_025173823.1,DNA topoisomerase IV subunit B [Staphylococcus aureus] ,0
+core/186/104/WP_000481447.1, transketolase [Staphylococcus] ,0
+core/193/104/WP_070997676.1,heme uptake protein IsdB [Staphylococcus aureus] ,0
+core/194/104/WP_000192166.1,"fructose-1,6-bisphosphatase [Staphylococcus aureus] ",1
+core/199/104/WP_000954266.1,BglG family transcription antiterminator [Staphylococcus aureus] ,1
+core/210/104/WP_000602067.1,ABC-F type ribosomal protection protein [Staphylococcus aureus] ,0
+core/218/104/WP_001151892.1,cell-wall-anchored protein SasF [Staphylococcus aureus] ,1
+core/224/104/WP_001283675.1,nitric oxide reductase activation protein NorD [Staphylococcus aureus] ,0
+core/228/104/WP_000775154.1,assimilatory sulfite reductase (NADPH) flavoprotein subunit [Staphylococcus aureus] ,1
+core/229/104/WP_000143651.1,peptide resistance ABC transporter permease subunit VraE [Staphylococcus aureus] ,0
+core/234/104/WP_223065229.1,amidase domain-containing protein [Staphylococcus aureus] ,0
+core/237/104/WP_078371690.1,3-(L-alanin-3-ylcarbamoyl)-2-[(2-aminoethylcarbamoyl)methyl]-2-hydroxypropanoate synthase SbnF [Staphylococcus aureus] ,1
+core/254/104/WP_000586384.1,FUSC family protein [Staphylococcus aureus] ,0
+core/254/104/WP_000586384.1,FUSC family protein [Staphylococcus aureus] ,0
+core/257/104/WP_001217246.1,DNA primase [Staphylococcus aureus] ,0
+core/258/104/WP_001044224.1,acyltransferase family protein [Staphylococcus aureus] ,0
+core/274/104/WP_000818276.1,succinate dehydrogenase flavoprotein subunit [Staphylococcus aureus] ,1
+core/278/104/WP_001064820.1,ABC transporter ATP-binding protein [Staphylococcus aureus] ,0
+core/283/104/WP_020977965.1,staphyloferrin B biosynthesis protein SbnC [Staphylococcus aureus] ,1
+core/292/104/WP_001179884.1,"L-2,3-diaminopropanoate--citrate ligase SbnE [Staphylococcus aureus] ",1
+core/301/104/WP_070997680.1,phosphoenolpyruvate--protein phosphotransferase [Staphylococcus aureus] ,1
+core/329/104/WP_000402650.1,potassium-transporting ATPase subunit KdpA [Staphylococcus aureus] ,0
+core/331/104/WP_029163748.1,CDP-glycerol glycerophosphotransferase family protein [Staphylococcus aureus] ,1
+core/344/104/WP_223065263.1,HAMP domain-containing sensor histidine kinase [Staphylococcus aureus] ,0
+core/345/104/WP_001226832.1,urocanate hydratase [Staphylococcus aureus] ,1
+core/357/104/WP_000031499.1," alpha,alpha-phosphotrehalase [Staphylococcus] ",1
+core/358/104/WP_000813533.1,alpha-keto acid decarboxylase family protein [Staphylococcus aureus] ,1
+core/364/104/WP_020978073.1,ABC transporter ATP-binding protein/permease [Staphylococcus aureus] ,0
+core/380/104/WP_000942306.1,ATP-binding cassette domain-containing protein [Staphylococcus aureus] ,1
+core/382/104/WP_001229081.1, staphylopine-dependent metal ABC transporter substrate-binding protein CntA [Staphylococcus] ,0
+core/383/104/WP_001172351.1, AMP-binding protein [Staphylococcus] ,1
+core/408/104/WP_000028683.1,type I restriction-modification system subunit M [Staphylococcus aureus] ,1
+core/409/104/WP_000127985.1,sensor histidine kinase [Staphylococcus aureus] ,0
+core/412/104/WP_223065248.1,DASS family sodium-coupled anion symporter [Staphylococcus aureus] ,0
+core/418/104/WP_000725595.1,hypothetical protein [Staphylococcus aureus] ,1
+core/429/104/WP_000665718.1,solute symporter [Staphylococcus aureus] ,1
+core/431/104/WP_001066534.1,MFS transporter [Staphylococcus aureus] ,1
+core/439/104/WP_001178943.1,DEAD/DEAH box helicase [Staphylococcus aureus] ,1
+core/448/104/WP_000208564.1,serine hydrolase FLP [Staphylococcus aureus] ,0
+core/454/104/WP_070997662.1,accessory Sec system glycosyltransferase GtfA [Staphylococcus aureus] ,1
+core/467/104/WP_223065226.1,NAD(P)/FAD-dependent oxidoreductase [Staphylococcus aureus] ,1
+core/481/104/WP_000948300.1,NADH dehydrogenase subunit 5 [Staphylococcus aureus] ,1
+core/482/104/WP_000141430.1,sucrose-6-phosphate hydrolase [Staphylococcus aureus] ,0
+core/483/104/WP_000340122.1,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase [Staphylococcus aureus] ,1
+core/488/104/WP_070997683.1,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase [Staphylococcus aureus] ,0
+core/491/104/WP_000669652.1,ABC transporter substrate-binding protein [Staphylococcus aureus] ,0
+core/492/104/WP_001009707.1,M17 family metallopeptidase [Staphylococcus aureus] ,0
+core/496/104/WP_001106733.1,glycosyltransferase [Staphylococcus aureus] ,1
+core/507/104/WP_001017871.1,rhomboid family intramembrane serine protease [Staphylococcus aureus] ,0
+core/511/104/WP_000129651.1,D-alanine--poly(phosphoribitol) ligase subunit DltA [Staphylococcus aureus] ,0
+core/516/104/WP_000389954.1, amino acid permease [Staphylococcus] ,1
+core/530/104/WP_000164005.1, 6-phospho-beta-glucosidase [Staphylococcus] ,1
+core/561/104/WP_221556217.1,ATP-dependent protease ATPase subunit HslU [Staphylococcus aureus] ,0
+core/564/104/WP_000631974.1, cysteine--tRNA ligase [Staphylococcus] ,1
+core/582/104/WP_000116231.1, class II fumarate hydratase [Staphylococcus] ,0
+core/588/104/WP_001021226.1, aldehyde dehydrogenase [Staphylococcus] ,1
+core/591/104/WP_000902108.1,ATP-dependent DNA helicase RecQ [Staphylococcus aureus] ,0
+core/600/104/WP_000952035.1, deoxyribodipyrimidine photo-lyase [Staphylococcus] ,0
+core/621/104/WP_000611470.1,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [Staphylococcus aureus] ,0
+core/622/104/WP_001110069.1,adenosylmethionine--8-amino-7-oxononanoate transaminase [Staphylococcus aureus] ,1
+core/623/104/WP_020978390.1,accessory Sec system glycosylation chaperone GtfB [Staphylococcus aureus] ,1
+core/625/104/WP_000651049.1,multidrug efflux MATE transporter MepA [Staphylococcus aureus] ,0
+core/639/104/WP_000019681.1,aminomethyl-transferring glycine dehydrogenase subunit GcvPA [Staphylococcus aureus] ,0
+core/641/104/WP_001147963.1,PTS ascorbate transporter subunit IIC [Staphylococcus aureus] ,1
+core/648/104/WP_000895192.1,nucleoside recognition domain-containing protein [Staphylococcus aureus] ,1
+core/659/104/WP_223286855.1,isochorismate synthase MenF [Staphylococcus aureus] ,0
+core/670/104/WP_001241211.1,bifunctional UDP-sugar hydrolase/5'-nucleotidase [Staphylococcus aureus] ,0
+core/679/104/WP_000792552.1,immunoglobulin-binding protein Sbi [Staphylococcus aureus] ,1
+core/681/104/WP_000745102.1,branched-chain amino acid transport system II carrier protein [Staphylococcus aureus] ,0
+core/687/104/WP_000572241.1, 16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB [Staphylococcus] ,0
+core/688/104/WP_223065250.1,phosphopyruvate hydratase [Staphylococcus aureus] ,1
+core/693/104/WP_000245899.1, 3-phosphoshikimate 1-carboxyvinyltransferase [Staphylococcus] ,0
+core/696/104/WP_000180238.1,HD domain-containing protein [Staphylococcus aureus] ,1
+core/697/104/WP_000793045.1,penicillin-binding protein PBP4 [Staphylococcus aureus] ,0
+core/699/104/WP_001176703.1,tRNA lysidine(34) synthetase TilS [Staphylococcus aureus] ,1
+core/704/104/WP_000496103.1,not find,1
+core/804/104/WP_000548700.1, ABC transporter permease [Staphylococcus] ,1
+core/812/104/WP_000948976.1, ABC transporter ATP-binding protein [Staphylococcus] ,1
+core/813/104/WP_001031980.1,polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [Staphylococcus aureus] ,1
+core/820/104/WP_223065247.1,sugar efflux transporter [Staphylococcus aureus] ,0
+core/829/104/WP_001041342.1, tryptophan synthase subunit beta [Staphylococcus] ,0
+core/832/104/WP_000916122.1,accessory Sec system protein translocase subunit SecY2 [Staphylococcus aureus] ,1
+core/835/104/WP_000863506.1,acyl-CoA dehydrogenase family protein [Staphylococcus aureus] ,1
+core/846/104/WP_001291017.1,type 8 capsular polysaccharide synthesis protein Cap8L [Staphylococcus aureus] ,1
+core/849/104/WP_000660040.1, argininosuccinate synthase [Staphylococcus] ,1
+core/855/104/WP_001223704.1, staphyloferrin B biosynthesis decarboxylase SbnH [Staphylococcus] ,1
+core/863/104/WP_191961969.1,MFS transporter [Staphylococcus aureus] ,1
+core/880/104/WP_223065220.1,MFS transporter [Staphylococcus aureus] ,1
+core/881/104/WP_070997725.1,glycine C-acetyltransferase [Staphylococcus aureus] ,1
+core/886/104/WP_001154636.1,thiolase family protein [Staphylococcus aureus] ,1
+core/889/104/WP_001292240.1,N-acetylglucosamine-6-phosphate deacetylase [Staphylococcus aureus] ,1
+core/890/104/WP_000199071.1, acetyl-CoA C-acetyltransferase [Staphylococcus] ,1
+core/910/104/WP_000598262.1, teichoic acid glycerol-phosphate transferase TarF [Staphylococcus] ,0
+core/912/104/WP_000278555.1,nitrate/nitrite transporter [Staphylococcus aureus] ,1
+core/913/104/WP_001184008.1, acetoin utilization protein AcuC [Staphylococcus] ,0
+core/917/104/WP_000848778.1,ABC transporter permease [Staphylococcus aureus] ,1
+core/938/104/WP_000625056.1, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Staphylococcus] ,1
+core/943/104/WP_031871482.1,amidohydrolase [Staphylococcus aureus] ,1
+core/944/104/WP_001217801.1,anthranilate synthase component I family protein [Staphylococcus aureus] ,0
+core/947/104/WP_223065264.1,cysteine desulfurase family protein [Staphylococcus aureus] ,0
+core/948/104/WP_001281142.1,alanine racemase [Staphylococcus aureus] ,1
+core/951/104/WP_223065238.1,globin domain-containing protein [Staphylococcus aureus] ,1
+core/954/104/WP_000487147.1,class I SAM-dependent RNA methyltransferase [Staphylococcus aureus] ,0
+core/955/104/WP_000723451.1,type 8 capsular polysaccharide synthesis protein Cap8P [Staphylococcus aureus] ,1
+core/963/104/WP_001119016.1,molecular chaperone DnaJ [Staphylococcus aureus] ,1
+core/964/104/WP_000843610.1, nucleotidyltransferase [Staphylococcus] ,1
+core/980/104/WP_029160281.1,tRNA epoxyqueuosine(34) reductase QueG [Staphylococcus aureus] ,1
+core/982/104/WP_000838035.1,NADH-dependent flavin oxidoreductase [Staphylococcus aureus] ,1
+core/988/104/WP_000684140.1, FAD-dependent monooxygenase [Staphylococcus] ,0
+core/992/104/WP_000866739.1, glycerate kinase [Staphylococcus] ,1
+core/998/104/WP_020978033.1,YibE/F family protein [Staphylococcus aureus] ,1
+core/1007/104/WP_141766962.1,peptide chain release factor 2 [Staphylococcus aureus] ,0
+core/1021/104/WP_000648720.1,mannitol-1-phosphate 5-dehydrogenase [Staphylococcus aureus] ,1
+core/1026/104/WP_001101596.1, teichoic acid glycerol-phosphate primase TarB [Staphylococcus] ,1
+core/1027/104/WP_223065241.1,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Staphylococcus aureus] ,1
+core/1029/104/WP_000683933.1, Nif3-like dinuclear metal center hexameric protein [Staphylococcus] ,0
+core/1030/104/WP_001280138.1, ribosome biogenesis GTPase YqeH [Staphylococcus] ,1
+core/1035/104/WP_223065207.1,glycoside hydrolase family 55 protein [Staphylococcus aureus] ,1
+core/1049/104/WP_000676528.1, Glu-specific serine endopeptidase SspA [Staphylococcus] ,0
+core/1063/104/WP_001076665.1,M42 family metallopeptidase [Staphylococcus aureus] ,1
+core/1068/104/WP_000153484.1,Gfo/Idh/MocA family oxidoreductase [Staphylococcus aureus] ,1
+core/1073/104/WP_000177991.1, AbrB family transcriptional regulator [Staphylococcus] ,0
+core/1075/104/WP_000819691.1, spermidine/putrescine ABC transporter substrate-binding protein [Staphylococcus] ,0
+core/1087/104/WP_070997566.1,3-dehydroquinate synthase [Staphylococcus aureus] ,0
+core/1089/104/WP_223065209.1,Mrp/NBP35 family ATP-binding protein [Staphylococcus aureus] ,1
+core/1096/104/WP_001241184.1, glycosyltransferase family A protein [Staphylococcus] ,1
+core/1098/104/WP_070997563.1,aminopeptidase P family protein [Staphylococcus aureus] ,1
+core/1102/104/WP_000169431.1,Xaa-Pro peptidase family protein [Staphylococcus aureus] ,1
+core/1107/104/WP_000200689.1,PTS transporter subunit IIC [Staphylococcus aureus] ,1
+core/1115/104/WP_000477936.1, ABC transporter permease [Staphylococcus] ,1
+core/1120/104/WP_223065203.1,LLM class flavin-dependent oxidoreductase [Staphylococcus aureus] ,0
+core/1121/104/WP_000379891.1,L-threonylcarbamoyladenylate synthase [Staphylococcus aureus] ,1
+core/1164/104/WP_000159033.1,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD [Staphylococcus aureus] ,1
+core/1172/104/WP_000728065.1,extracellular matrix protein-binding adhesin Emp [Staphylococcus aureus] ,0
+core/1180/104/WP_020978122.1,cytochrome d ubiquinol oxidase subunit II [Staphylococcus aureus] ,1
+core/1184/104/WP_000625893.1, iron ABC transporter permease [Staphylococcus] ,1
+core/1192/104/WP_001078466.1,N-[(2S)-2-amino-2-carboxyethyl]-L-glutamate dehydrogenase SbnB [Staphylococcus aureus] ,1
+core/1196/104/WP_000023325.1,biotin-dependent carboxyltransferase family protein [Staphylococcus aureus] ,0
+core/1204/104/WP_000781943.1,zinc-binding alcohol dehydrogenase family protein [Staphylococcus aureus] ,0
+core/1207/104/WP_001180223.1, NADP-dependent oxidoreductase [Staphylococcus] ,0
+core/1210/104/WP_000076927.1, ThiF family adenylyltransferase [Staphylococcus] ,1
+core/1213/104/WP_000184744.1,iron ABC transporter permease [Staphylococcus aureus] ,1
+core/1218/104/WP_070997733.1,o-succinylbenzoate synthase [Staphylococcus aureus] ,1
+core/1249/104/WP_001174266.1,YpdA family putative bacillithiol disulfide reductase [Staphylococcus aureus] ,1
+core/1252/104/WP_000239742.1, phosphate acyltransferase PlsX [Staphylococcus] ,1
+core/1255/104/WP_000597330.1, diphosphomevalonate decarboxylase [Staphylococcus] ,1
+core/1258/104/WP_001214659.1,Fe(3+) dicitrate ABC transporter substrate-binding protein [Staphylococcus aureus] ,1
+core/1259/104/WP_001096630.1, alpha-ketoacid dehydrogenase subunit beta [Staphylococcus] ,1
+core/1274/104/WP_000589259.1, ABC transporter ATP-binding protein [Staphylococcus] ,1
+core/1276/104/WP_000109875.1, uroporphyrinogen-III C-methyltransferase [Staphylococcus] ,1
+core/1277/104/WP_223200722.1,CAP domain-containing protein [Staphylococcus aureus] ,0
+core/1301/104/WP_000681752.1,asparaginase [Staphylococcus aureus] ,0
+core/1321/104/WP_031871487.1,polyprenyl synthetase family protein [Staphylococcus aureus] ,0
+core/1331/104/WP_070997565.1,DUF1672 domain-containing protein [Staphylococcus aureus] ,0
+core/1336/104/WP_223065199.1,helix-turn-helix domain-containing protein [Staphylococcus aureus] ,1
+core/1362/104/WP_070997550.1,acetyl-CoA carboxylase carboxyltransferase subunit alpha [Staphylococcus aureus] ,1
+core/1368/104/WP_020978317.1,nucleoside hydrolase [Staphylococcus aureus] ,1
+core/1369/104/WP_000721554.1,osmoprotectant ABC transporter substrate-binding protein [Staphylococcus aureus] ,1
+core/1377/104/WP_001173211.1,"mannose-6-phosphate isomerase, class I [Staphylococcus aureus] ",1
+core/1378/104/WP_223065201.1,50S ribosomal protein L11 methyltransferase [Staphylococcus aureus] ,0
+core/1380/104/WP_001127964.1,class I mannose-6-phosphate isomerase [Staphylococcus aureus] ,1
+core/1382/104/WP_000808891.1, aldo/keto reductase [Staphylococcus] ,1
+core/1385/104/WP_000161293.1,methionyl-tRNA formyltransferase [Staphylococcus aureus] ,1
+core/1386/104/WP_000134961.1,thioredoxin-disulfide reductase [Staphylococcus aureus] ,1
+core/1388/104/WP_000277959.1,formimidoylglutamase [Staphylococcus aureus] ,1
+core/1399/104/WP_031870711.1,CdaR family protein [Staphylococcus aureus] ,1
+core/1410/104/WP_000757568.1, glycerophosphodiester phosphodiesterase [Staphylococcus] ,0
+core/1430/104/WP_000806106.1,ABC transporter permease [Staphylococcus aureus] ,1
+core/1450/104/WP_000634100.1,cysteine synthase family protein [Staphylococcus aureus] ,0
+core/1451/104/WP_070997628.1,ribokinase [Staphylococcus aureus] ,1
+core/1472/104/WP_000435105.1,aldo/keto reductase family oxidoreductase [Staphylococcus aureus] ,1
+core/1478/104/WP_223065215.1,urea transporter [Staphylococcus aureus] ,0
+core/1486/104/WP_020978201.1,GTPase Era [Staphylococcus aureus] ,1
+core/1503/104/WP_001033877.1,"5'-nucleotidase, lipoprotein e(P4) family [Staphylococcus aureus] ",1
+core/1508/104/WP_223065214.1,GNAT family N-acetyltransferase [Staphylococcus aureus] ,1
+core/1509/104/WP_001230680.1,capsular polysaccharide type 5/8 biosynthesis epimerase CapN [Staphylococcus aureus] ,1
+core/1512/104/WP_000236713.1,ribosome biogenesis GTPase YlqF [Staphylococcus aureus] ,1
+core/1520/104/WP_223065259.1,translation elongation factor Ts [Staphylococcus aureus] ,1
+core/1521/104/WP_000029206.1,ribose transporter RbsU [Staphylococcus aureus] ,1
+core/1532/104/WP_000134234.1, GTP cyclohydrolase FolE2 [Staphylococcus] ,1
+core/1544/104/WP_001114467.1, bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase [Staphylococcus] ,1
+core/1561/104/WP_223065227.1,fructosamine kinase family protein [Staphylococcus aureus] ,1
+core/1564/104/WP_000157601.1,ATP synthase F1 subunit gamma [Staphylococcus aureus] ,1
+core/1566/104/WP_001068487.1,DMT family transporter [Staphylococcus aureus] ,1
+core/1573/104/WP_001159893.1,GRP family sugar transporter [Staphylococcus aureus] ,1
+core/1580/104/WP_000953557.1,oxidoreductase [Staphylococcus aureus] ,1
+core/1602/104/WP_000163739.1, pantoate--beta-alanine ligase [Staphylococcus] ,1
+core/1605/104/WP_000453317.1, aldo/keto reductase [Staphylococcus] ,0
+core/1614/104/WP_223065242.1,ParB/RepB/Spo0J family partition protein [Staphylococcus aureus] ,1
+core/1622/104/WP_000513313.1,prolipoprotein diacylglyceryl transferase [Staphylococcus aureus] ,1
+core/1635/104/WP_000886456.1, hypothetical protein [Staphylococcus] ,1
+core/1661/104/WP_000136016.1,alpha/beta hydrolase [Staphylococcus aureus] ,1
+core/1682/104/WP_001124423.1,recombination regulator RecX [Staphylococcus aureus] ,1
+core/1688/104/WP_000173865.1,ABC transporter ATP-binding protein [Staphylococcus aureus] ,1
+core/1705/104/WP_000167923.1, dihydropteroate synthase [Staphylococcus] ,1
+core/1711/104/WP_000791628.1, energy-coupling factor transporter transmembrane protein EcfT [Staphylococcus] ,1
+core/1713/104/WP_000273245.1,energy-coupling factor transporter transmembrane protein EcfT [Staphylococcus aureus] ,1
+core/1735/104/WP_000362969.1, alpha/beta hydrolase [Staphylococcus] ,1
+core/1738/104/WP_001108489.1,hydroxyethylthiazole kinase [Staphylococcus aureus] ,1
+core/1745/104/WP_000731647.1, LysM peptidoglycan-binding domain-containing protein [Staphylococcus] ,1
+core/1758/104/WP_000999345.1, peptidoglycan editing factor PgeF [Staphylococcus] ,1
+core/1764/104/WP_001045430.1,alpha/beta hydrolase [Staphylococcus aureus] ,1
